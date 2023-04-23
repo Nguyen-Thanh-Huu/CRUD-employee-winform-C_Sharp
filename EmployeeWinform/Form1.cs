@@ -117,5 +117,10 @@ namespace EmployeeWinform
             else
                 MessageBox.Show("Fails! Please try again...");
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
