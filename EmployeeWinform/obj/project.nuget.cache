@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Keb5kFoXCsdxx8NOUJUqwi9xtFGeuVhrrxHcpS4gIMkYj0JQ/zmhjNVyn3ZjZwsAnFbiVMuc/BPwTeP8k344Rg==",
+  "success": true,
+  "projectFilePath": "D:\\Aptech\\sem3\\Winform\\winform\\EmployeeWinform\\EmployeeWinform\\EmployeeWinform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSII\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MSII\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\MSII\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\MSII\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\MSII\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
